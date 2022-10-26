@@ -1,0 +1,5 @@
+println("Sum 5 + 5: ", 5 + 5)
+println("Subtraction 5 - 5: ", 5 - 5)
+println("Multiplication 5 * 5: ", 5 * 5)
+println("Division 5 / 5: ", 5 / 5)
+println("Expt 5^2 + 5: ", 5^2 + 5)
